@@ -4,7 +4,7 @@
 
 Hi! Ready to go! :whale::whale:
 
-*部分代码内容来自pykinectazure 
+*部分代码内容来自pykinectazure @https://github.com/ibaiGorordo/pyKinectAzure
 
 # Prerequisites
 - [ ] Azure_kinect_sensor_sdk: [download link](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/usage.md)
