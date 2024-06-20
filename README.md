@@ -1,5 +1,5 @@
 # basic_study for arch students using Azure Kinect SDK 
-部分代码内容来自pykinectazure
+*部分代码内容来自pykinectazure
 
 # Prerequisites
 Azure_kinect_sensor_sdk: [download link](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/usage.md)
