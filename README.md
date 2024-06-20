@@ -1,18 +1,26 @@
-# basic_study
+# basic_study for arch students using Azure Kinect SDK 
+部分代码内容来自pykinectazure
 
 # Prerequisites
 Azure_kinect_sensor_sdk: [download link](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/usage.md)
+Azure_kinect_body_tracking_sdk :[download link](https://learn.microsoft.com/en-us/azure/kinect-dk/body-sdk-download)
 
-# 1st step
-Download the codes in the 'example' folder and requirements.txt
+!! Please install those two SDKs using the original path, as the software suggested. 
 
-# 2nd step
+#  Environment set up
+Download 'requirements.txt'
 
-# 3rd step
-
-#
+cmd in terminal:
 
 ```
 pip install -r requirements.txt
 
 ```
+
+# Runing Azure Kinect examples 
+
+Download codes in the 'example' folder
+
+
+
+
