@@ -13,8 +13,9 @@ ready to go! :whale:
 
 #  Environment set up
 
-Python version: 3.10
+!!!!Please do not name the project folder the same as the system path
 
+Python version: 3.10.11
 Download 'requirements.txt'
 
 cmd in terminal:
