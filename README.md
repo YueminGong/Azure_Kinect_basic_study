@@ -32,6 +32,11 @@ pip install -r requirements.txt
 
 ```
 
+# developing
+- [ ] update videos
+- [ ] Organise the issues
+ 
+
 # Runing Azure Kinect examples 
 
 - Download codes in the 'example' folder
