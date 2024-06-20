@@ -15,6 +15,9 @@ ready to go! :whale:
 
 !!!!Please do not name the project folder the same as the system path
 
+you can set up folder like: 
+![project](https://github.com/YueminGong/basic_study/blob/main/image/windows.png)
+
 Python version: 3.10.11
 Download 'requirements.txt'
 
