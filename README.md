@@ -1,4 +1,4 @@
-# basic_study for arch students using Azure Kinect SDK 
+# Basic_tutorial for arch students using Azure Kinect SDK 
 Hi! Ready to go! :whale::whale:
 
 *部分代码内容来自pykinectazure 
