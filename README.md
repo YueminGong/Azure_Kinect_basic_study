@@ -32,15 +32,15 @@ You can set up folders like:
 pip install -r requirements.txt
 
 ```
-
-# Developing
-- [ ] update videos
-- [ ] Organise the issues
  
 
 # Runing Azure Kinect examples 
 
 - Download codes in the 'example' folder
+
+# Developing
+- [ ] update videos
+- [ ] Organise the issues
 
 #
 
