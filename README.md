@@ -9,11 +9,11 @@ ready to go! :whale:
 
 
 
-!! Please install those two SDKs using the original path, as the software suggested. 
+:bangbang::bangbang: Please install those two SDKs using the original path, as the software suggested. 
 
 #  Environment set up
 
-!!!!Please do not name the project folder the same as the system path
+:bangbang::bangbang:Please do not name the project folder the same as the system path
 
 you can set up folder like: 
 ![project](https://github.com/YueminGong/basic_study/blob/main/image/windows.png)
