@@ -1,5 +1,5 @@
 # Basic_tutorial for arch students set up Azure Kinect SDK 
-![]
+![](https://github.com/YueminGong/basic_study/blob/main/image/windows.png)
 Hi! Ready to go! :whale::whale:
 
 *部分代码内容来自pykinectazure 
