@@ -1,4 +1,5 @@
 # basic_study for arch students using Azure Kinect SDK 
+ready to go! :whale:
 *部分代码内容来自pykinectazure
 
 # Prerequisites
