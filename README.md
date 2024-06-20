@@ -9,7 +9,7 @@ ready to go! :whale:
 
 
 
-:bangbang::bangbang: Please install those two SDKs using the original path, as the software suggested. 
+:bangbang::bangbang: Please install those two SDKs using the original path, follow the software suggested. 
 
 #  Environment set up
 
