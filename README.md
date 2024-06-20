@@ -3,6 +3,7 @@
 
 
 Hi! Ready to go! :whale::whale:
+Implement basic applications such as azurekinect sdk depth image, color image, skeleton tracking, point cloud display and real-time export of 3D coordinate information.
 
 *部分代码内容来自pykinectazure @https://github.com/ibaiGorordo/pyKinectAzure
 
