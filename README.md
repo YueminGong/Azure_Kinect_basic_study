@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ```
 
-# developing
+# Developing
 - [ ] update videos
 - [ ] Organise the issues
  
