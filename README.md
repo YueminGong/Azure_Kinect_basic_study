@@ -16,7 +16,7 @@ Hi! Ready to go! :whale::whale:
 
 :bangbang::bangbang: Please do not name the project folder the same as the system path
 
-You can set up folder like: 
+You can set up folders like: 
 [project set up](https://github.com/YueminGong/basic_study/blob/main/image/windows.png)
 
 - Python version: 3.10.11
