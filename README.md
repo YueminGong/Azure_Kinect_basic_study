@@ -18,10 +18,10 @@ ready to go! :whale:
 you can set up folder like: 
 ![project](https://github.com/YueminGong/basic_study/blob/main/image/windows.png)
 
-Python version: 3.10.11
-Download 'requirements.txt'
+- Python version: 3.10.11
+- Download 'requirements.txt'
 
-cmd in terminal:
+- cmd in terminal:
 
 ```
 pip install -r requirements.txt
