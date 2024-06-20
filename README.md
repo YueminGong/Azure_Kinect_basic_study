@@ -9,13 +9,13 @@ ready to go! :whale:
 
 
 
-:bangbang::bangbang: Please install those two SDKs using the original path, follow the software suggested. 
+:bangbang::bangbang: Please install those two SDKs using the original path and follow the software suggested. 
 
 #  Environment set up
 
-:bangbang::bangbang:Please do not name the project folder the same as the system path
+:bangbang::bangbang: Please do not name the project folder the same as the system path
 
-you can set up folder like: 
+You can set up folder like: 
 ![project](https://github.com/YueminGong/basic_study/blob/main/image/windows.png)
 
 - Python version: 3.10.11
