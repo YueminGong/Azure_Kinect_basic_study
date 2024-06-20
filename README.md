@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 # Runing Azure Kinect examples 
 
-Download codes in the 'example' folder
+- Download codes in the 'example' folder
 
 Feel free to contact us with any questions ygongah@connect.ust.hk, this application is for academic purposes only, if you want to have a citation you can refer to liences.
 
