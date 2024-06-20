@@ -6,11 +6,14 @@ Azure_kinect_sensor_sdk: [download link](https://github.com/microsoft/Azure-Kine
 
 Azure_kinect_body_tracking_sdk :[download link](https://learn.microsoft.com/en-us/azure/kinect-dk/body-sdk-download)
 
-Python version: 3.10
+
 
 !! Please install those two SDKs using the original path, as the software suggested. 
 
 #  Environment set up
+
+Python version: 3.10
+
 Download 'requirements.txt'
 
 cmd in terminal:
